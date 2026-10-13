@@ -1,188 +1,109 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="J-HWK Banner" width="100%">
-</p>
+<p align="center"><img src="./assets/hero.jpeg" alt="J-HWK — original technical blueprint identity" width="100%"></p>
 
-<div align="center">
+<p align="center"><sub><a href="#identity">IDENTITY</a> · <a href="#development">DEVELOPMENT</a> · <a href="#principles">PRINCIPLES</a> · <a href="#approach">APPROACH</a> · <a href="#background">BACKGROUND</a> · <a href="#contact">CONTACT</a></sub></p>
 
-# J-HWK
+<p align="center"><strong>🇬🇧 EN</strong> / <a href="./README.sk.md">🇸🇰 SK</a></p>
 
-### Practical AI tools • Local-first software • Automation systems • Operational software • Awareness-focused concepts
+<p align="center"><img src="./assets/dividers/01_system_start.gif" alt="" width="100%"></p>
 
-<br>
+<a id="identity"></a>
+## Identity & Introduction
 
-<img src="https://img.shields.io/badge/Focus-Practical%20Systems-111111?style=for-the-badge" alt="Focus">
-<img src="https://img.shields.io/badge/Approach-Utility%20First-1F2937?style=for-the-badge" alt="Approach">
-<img src="https://img.shields.io/badge/Build-Local--First%20%26%20Private-374151?style=for-the-badge" alt="Build">
-<img src="https://img.shields.io/badge/Direction-Operational%20Software-0F172A?style=for-the-badge" alt="Direction">
-<img src="https://img.shields.io/badge/Identity-J--HWK-0B1220?style=for-the-badge" alt="Identity">
+**J-HWK / JayHawkWorks — Independent Systems Builder**
 
-</div>
+I design and explore field-oriented software, geospatial systems, communications technologies and dependable local tools. My priority is practical usefulness: clear information, understandable interfaces and responsible operation.
 
----
+**Human-led development. AI-assisted where useful.**
 
-## AI OPS Atlas · Live Project
+<p align="center"><img src="./assets/dividers/02_module_routing.gif" alt="" width="100%"></p>
 
-**[Open AI OPS Atlas v2.6 — Welcome Edition](https://ai-ops-atlas-v26.vercel.app/)**  
-An interactive, browser-based AI model reference, prompt toolkit and workflow atlas. Free to open; available on desktop and mobile.
+<a id="development"></a>
+## Technical Projects & Development Areas
 
----
+The following areas represent a selection of my technical work and development interests. Individual project names and implementation details remain private.
 
-## Overview
+### 01 / UAV & Aerial Reconnaissance Technologies
 
-I build and explore practical systems designed for real use.
+Software-oriented work around unmanned aerial systems, aerial observation and geospatial applications. The focus is on useful information, practical field applications and responsible interpretation of observations.
 
-My direction is centered around AI-assisted tools, local-first software, automation workflows, operational dashboards, and utility-driven systems built to improve clarity, speed, coordination, and execution.
+### 02 / Geospatial & Field Mapping Systems
 
-I am especially interested in software that supports real workflows and real environments rather than existing only as a concept or short-lived prototype.
+Mapping and geospatial applications concerned with geographic information, clear presentation and usability in real working environments.
 
----
+### 03 / Communications & Signal Technologies
 
-## What this profile represents
+Exploration of communications software and signal-related systems, with an emphasis on coordination, information clarity and dependable operation.
 
-This profile represents a builder mindset focused on:
+### 04 / Operational Management Systems
 
-- practical software thinking
-- utility-first product logic
-- structured workflows
-- clear interfaces
-- local-first and private software where appropriate
-- systems designed to reduce friction and improve execution
+Software for organizing information, resources and structured workflows, designed with everyday usability and clear presentation in mind.
 
-The goal is to build software that is useful, intentional, and worth keeping.
+### 05 / Local AI & Intelligent Automation
 
----
+Research and development around local AI, controlled automation and assistance for practical tasks, with attention to privacy and human oversight.
 
-## Strategic Build Areas
+### 06 / Systems Engineering & Technical Integration
 
-| AI & Automation | Operational Software | Field & Awareness Systems |
-|---|---|---|
-| Practical AI tools | Workflow-oriented platforms | Awareness-focused concepts |
-| Decision-support utilities | Structured dashboards | Coordination and visibility tools |
-| Local-first utility apps | Information flow systems | Mission-support interfaces |
-| Automation-first tools | Execution-focused software | Real-world field software ideas |
+Integration of software, data and local technical environments, guided by maintainability, clear responsibilities and real-world requirements.
 
----
+**Beyond this overview**
 
-## Core Focus
+The areas highlighted above represent only a selection of my work. I have also worked on other software, hardware and field-oriented projects that are not individually documented here.
 
-- AI-powered tools
-- Local-first and private software
-- Automation systems and workflow design
-- Operational dashboards and control panels
-- Productivity and decision-support tools
-- Awareness-oriented software concepts
-- Real-world utility applications
+Over time, I plan to share selected new projects, practical tools, technical resources and informational repositories that may be useful to others. Some development work will remain private.
 
----
+<p align="center"><img src="./assets/dividers/03_system_architecture.gif" alt="" width="100%"></p>
 
-## Future Systems I Want to Build
+<a id="principles"></a>
+## Engineering Principles
 
-Over time, I want to move toward software and system categories such as:
+A useful system should be understandable before it is complex. Across different development areas, I value:
 
-- operational and awareness platforms
-- support systems for demanding workflows
-- drone-related software concepts
-- AI-assisted workflow tools
-- local-first utility systems
-- structured software for field and operational use
+- **Clarity:** show relevant information without unnecessary noise.
+- **Trust:** acknowledge data quality, uncertainty and limitations.
+- **Control:** use deliberate permissions and reviewable actions.
+- **Resilience:** account for changing conditions and interrupted work.
+- **Maintainability:** prefer understandable designs over avoidable complexity.
 
----
+These principles describe an engineering approach, not the architecture of any private project.
 
-## Operational Software Themes
+<p align="center"><img src="./assets/dividers/09_engineering_method.gif" alt="" width="100%"></p>
 
-The themes that consistently shape my direction include:
+<a id="approach"></a>
+## Development Approach
 
-- situational awareness
-- operational visibility
-- structured decision support
-- workflow reduction
-- information flow
-- dashboard clarity
-- monitoring and coordination
-- field usability
-- action-oriented interfaces
+1. Understand the real task and its context.
+2. Define what the user needs to know and do.
+3. Design a practical, clear interface.
+4. Develop and review the system deliberately.
+5. Test limitations, failures and recovery.
+6. Refine for reliability and long-term usefulness.
 
----
+I use AI-assisted tools where they provide measurable value. Important decisions, privacy boundaries and final technical review remain human responsibilities.
 
-## System Traits I Value
+<p align="center"><img src="./assets/dividers/06_uav_flight.gif" alt="" width="100%"></p>
 
-The system traits I value most are:
+<a id="background"></a>
+## Technical Background
 
-- clear structure
-- strong usability
-- low-friction workflows
-- fast access to relevant information
-- controlled complexity
-- practical outputs
-- modular logic
-- reduced noise
-- reliable system behavior
+My experience and interests span **UAV operation, geospatial tools, radio communications, local computing, networking, automation and hardware/software integration**.
 
-A system should not just contain features.  
-It should make action easier, information clearer, and execution more reliable.
+Practical field work informs my preference for systems that stay clear and dependable outside ideal conditions. Private deployments, operating parameters and sensitive project details are not published.
 
----
+<p align="center"><img src="./assets/dividers/11_contact_handshake.gif" alt="" width="100%"></p>
 
-## Current Direction
+<a id="contact"></a>
+## Contact & Connect
 
-At the moment, my direction is centered on exploring and refining systems around:
+Choose GitHub, Proton Mail or Telegram. Use **SAVE CONTACT** to open or download the J-HWK digital contact card.
 
-- practical AI applications
-- local-first utility software
-- workflow automation
-- structured operational dashboards
-- awareness-oriented software concepts
-- real-world software ideas with long-term utility
+<p align="center"><img src="./assets/contact-header.png" alt="Original J-HWK technical identity" width="100%"></p>
 
----
+<p align="center"><a href="https://github.com/JayHawkWorks"><img src="./assets/contact-github-en.png" alt="GitHub" width="33%"></a><a href="mailto:hwk_jay@protonmail.com"><img src="./assets/contact-proton-en.png" alt="Proton Mail" width="33%"></a><a href="https://t.me/Jay_HWK"><img src="./assets/contact-telegram-en.png" alt="Telegram" width="33%"></a></p>
 
-## Selected Projects
+<p align="center"><a href="https://github.com/JayHawkWorks/JayHawkWorks/raw/main/contact/J-HWK.vcf"><img src="./assets/contact-save-en.png" alt="Open J-HWK digital contact VCF" width="100%"></a></p>
 
-> This section includes planned project directions and future repository ideas.
+<p align="center"><img src="./assets/contact-footer.png" alt="J-HWK technical signature" width="100%"></p>
 
-| Project | Description | Status |
-|---|---|---|
-| Situation Awareness Platform | Awareness and visibility-focused software concept. | Planned |
-| Medical and Firefighter Support System | Support-oriented software concept for demanding workflows. | Planned |
-| Drone Detection System | Detection and monitoring-focused software concept. | Planned |
-| Drone Support Platform | Drone-related operational software concept. | Planned |
-| Local-First Operational Dashboard | Private dashboard concept for structured workflows. | Planned |
-| AI Workflow Utility Suite | Practical AI and automation-oriented toolset. | Planned |
+<p align="center">Local time: <strong>Europe/Bratislava</strong> · CET (UTC+01:00) / CEST (UTC+02:00)</p>
 
----
-
-## Working Principles
-
-- Utility over hype
-- Clear structure over clutter
-- Real workflows over gimmicks
-- Speed over unnecessary complexity
-- Privacy and local control where possible
-- Systems built to be used, not just shown
-
----
-
-## Build Approach
-
-When I work on a project, I prefer to think in systems.
-
-That means I focus on:
-- the real use case first
-- the clarity of the interface
-- how information moves through the workflow
-- what should be visible
-- what should be automated
-- what should stay local or private
-- how the final tool improves real execution
-
-The goal is not only to make something functional.
-
-The goal is to make it usable, efficient, structured, and worth keeping.
-
----
-
-## Philosophy
-
-> Build useful.  
-> Keep it sharp.  
-> Keep it practical.
