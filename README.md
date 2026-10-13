@@ -20,6 +20,13 @@
 
 ---
 
+## AI OPS Atlas · Live Project
+
+**[Open AI OPS Atlas v2.6 — Welcome Edition](https://ai-ops-atlas-v26.vercel.app/)**  
+An interactive, browser-based AI model reference, prompt toolkit and workflow atlas. Free to open; available on desktop and mobile.
+
+---
+
 ## Overview
 
 I build and explore practical systems designed for real use.
