@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="166" viewBox="0 0 570 166">
+ <rect width="570" height="166" fill="#010203"/>
+ <path d="M26 8 H540 L560 28 V138 L540 158 H26 L10 142 V24Z" fill="none" stroke="#73767c" stroke-width="2"/>
+ <path d="M25 19 H537 M25 147 H537" stroke="#373a3f" stroke-width="1"/>
+ <path d="M26 20 H16 V30 M543 136 V146 H533" fill="none" stroke="#8eaf8c" stroke-width="2"/>
+ <circle cx="100" cy="82" r="46" stroke="#3b3e44" stroke-width="1" fill="none"/>
+ <g transform="translate(70 53) scale(2.3)" fill="#e9e9ed"><path d="m15.24 8.998 3.656-3.073v15.81H2.482C1.11 21.735 0 20.609 0 19.223V6.944l7.58 6.38a2.186 2.186 0 0 0 2.871-.042l4.792-4.284h-.003zm-5.456 3.538 1.809-1.616a2.438 2.438 0 0 1-1.178-.533L.905 2.395A.552.552 0 0 0 0 2.826v2.811l8.226 6.923a1.186 1.186 0 0 0 1.558-.024zM23.871 2.463a.551.551 0 0 0-.776-.068l-3.199 2.688v16.653h1.623c1.371 0 2.481-1.127 2.481-2.513V2.824a.551.551 0 0 0-.129-.36z"/></g>
+ <path d="M178 36 V132" stroke="#71747a" stroke-width="2"/>
+ <text x="201" y="76" fill="#e7e8eb" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="33" font-weight="600" letter-spacing="2">PROTON MAIL</text>
+ <text x="201" y="115" fill="#b6b8bd" font-family="DejaVu Sans Mono,Consolas,monospace" font-size="20" letter-spacing="1.5">POSLAŤ E-MAIL</text>
+ <path d="M490 140 h8 m5 0 h8 m5 0 h8" stroke="#70737a" stroke-width="6"/>
+ <path d="M529 140 h8" stroke="#9fbea1" stroke-width="6"/></svg>

@@ -97,11 +97,11 @@ Practical field work informs my preference for systems that stay clear and depen
 
 Choose GitHub, Proton Mail or Telegram. Use **SAVE CONTACT** to open or download the J-HWK digital contact card.
 
-<p align="center"><img src="./assets/contact-header.png" alt="Original J-HWK technical identity" width="100%"></p>
+<p align="center"><img src="./assets/contact-heading-en-final.svg" alt="J-HWK / Contact" width="100%"></p>
 
-<p align="center"><a href="https://github.com/JayHawkWorks"><img src="./assets/contact-github-en.png" alt="GitHub" width="33%"></a><a href="mailto:hwk_jay@protonmail.com"><img src="./assets/contact-proton-en.png" alt="Proton Mail" width="33%"></a><a href="https://t.me/Jay_HWK"><img src="./assets/contact-telegram-en.png" alt="Telegram" width="33%"></a></p>
+<p align="center"><a href="https://github.com/JayHawkWorks"><img src="./assets/contact-github-en-final.svg" alt="GitHub" width="33%"></a><a href="mailto:hwk_jay@protonmail.com"><img src="./assets/contact-proton-en-final.svg" alt="Proton Mail" width="33%"></a><a href="https://t.me/Jay_HWK"><img src="./assets/contact-telegram-en-final.svg" alt="Telegram" width="33%"></a></p>
 
-<p align="center"><a href="https://github.com/JayHawkWorks/JayHawkWorks/raw/main/contact/J-HWK.vcf"><img src="./assets/contact-save-en.png" alt="Open J-HWK digital contact VCF" width="100%"></a></p>
+<p align="center"><a href="https://github.com/JayHawkWorks/JayHawkWorks/raw/main/contact/J-HWK.vcf"><img src="./assets/contact-save-en-final.svg" alt="Open J-HWK digital contact VCF" width="100%"></a></p>
 
 <p align="center"><img src="./assets/contact-footer.png" alt="J-HWK technical signature" width="100%"></p>
 

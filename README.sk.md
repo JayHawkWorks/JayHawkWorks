@@ -97,11 +97,11 @@ Praktické skúsenosti z terénu ovplyvňujú môj dôraz na prehľadné a spoľ
 
 Vyber GitHub, Proton Mail alebo Telegram. Pomocou panelu **ULOŽIŤ KONTAKT** si môžeš uložiť digitálnu vizitku J-HWK.
 
-<p align="center"><img src="./assets/contact-header.png" alt="Pôvodná technická identita J-HWK" width="100%"></p>
+<p align="center"><img src="./assets/contact-heading-sk-final.svg" alt="J-HWK / Kontakt" width="100%"></p>
 
-<p align="center"><a href="https://github.com/JayHawkWorks"><img src="./assets/contact-github-sk.png" alt="GitHub" width="33%"></a><a href="mailto:hwk_jay@protonmail.com"><img src="./assets/contact-proton-sk.png" alt="Proton Mail" width="33%"></a><a href="https://t.me/Jay_HWK"><img src="./assets/contact-telegram-sk.png" alt="Telegram" width="33%"></a></p>
+<p align="center"><a href="https://github.com/JayHawkWorks"><img src="./assets/contact-github-sk-final.svg" alt="GitHub" width="33%"></a><a href="mailto:hwk_jay@protonmail.com"><img src="./assets/contact-proton-sk-final.svg" alt="Proton Mail" width="33%"></a><a href="https://t.me/Jay_HWK"><img src="./assets/contact-telegram-sk-final.svg" alt="Telegram" width="33%"></a></p>
 
-<p align="center"><a href="https://github.com/JayHawkWorks/JayHawkWorks/raw/main/contact/J-HWK.vcf"><img src="./assets/contact-save-sk.png" alt="Otvoriť digitálny kontakt J-HWK vo formáte VCF" width="100%"></a></p>
+<p align="center"><a href="https://github.com/JayHawkWorks/JayHawkWorks/raw/main/contact/J-HWK.vcf"><img src="./assets/contact-save-sk-final.svg" alt="Otvoriť digitálny kontakt J-HWK vo formáte VCF" width="100%"></a></p>
 
 <p align="center"><img src="./assets/contact-footer.png" alt="Technický podpis J-HWK" width="100%"></p>
 

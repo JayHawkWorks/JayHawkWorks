@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1740" height="90" viewBox="0 0 1740 90">
+ <rect width="1740" height="90" fill="#010203"/>
+ <path d="M25 47 H555 L568 34 H581 M1159 34 H1172 L1185 47 H1715" fill="none" stroke="#74767d" stroke-width="2"/>
+ <path d="M25 47 V31 H50 M1690 31 H1715 V47" stroke="#91bc95" stroke-width="2" fill="none"/>
+ <text x="868" y="62" fill="#e7e8eb" font-family="DejaVu Sans Mono,Consolas,monospace" font-weight="600" font-size="48" text-anchor="middle" letter-spacing="3">J-HWK <tspan fill="#91bc95">/</tspan> KONTAKT</text>
+ </svg>
