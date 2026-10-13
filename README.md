@@ -103,7 +103,5 @@ Choose GitHub, Proton Mail or Telegram. Use **SAVE CONTACT** to open or download
 
 <p align="center"><a href="https://github.com/JayHawkWorks/JayHawkWorks/raw/main/contact/J-HWK.vcf"><img src="./assets/contact-save-en-final.svg" alt="Open J-HWK digital contact VCF" width="100%"></a></p>
 
-<p align="center"><img src="./assets/contact-footer.png" alt="J-HWK technical signature" width="100%"></p>
-
-<p align="center">Local time: <strong>Europe/Bratislava</strong> · CET (UTC+01:00) / CEST (UTC+02:00)</p>
+<p align="center">Slovakia / Central Europe · <strong>Europe/Bratislava</strong> · CET (UTC+01:00) / CEST (UTC+02:00)</p>
 
