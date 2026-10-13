@@ -95,7 +95,7 @@ Praktické skúsenosti z terénu ovplyvňujú môj dôraz na prehľadné a spoľ
 <a id="kontakt"></a>
 ## Kontakt a spojenie
 
-Vyber GitHub, Proton Mail alebo Telegram. Pomocou panelu **SAVE CONTACT** si môžeš uložiť digitálnu vizitku J-HWK.
+Vyber GitHub, Proton Mail alebo Telegram. Pomocou panelu **ULOŽIŤ KONTAKT** si môžeš uložiť digitálnu vizitku J-HWK.
 
 <p align="center"><img src="./assets/contact-header.png" alt="Pôvodná technická identita J-HWK" width="100%"></p>
 
