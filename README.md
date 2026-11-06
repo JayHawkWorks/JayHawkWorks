@@ -9,7 +9,7 @@
 <a id="identity"></a>
 ## Identity & Introduction
 
-**J-HWK / JayHawkWorks — Independent Systems Builder**
+**J-HWK / JayHawkWorks — Operational & Geospatial Software Development**
 
 I design and explore field-oriented software, geospatial systems, communications technologies and dependable local tools. My priority is practical usefulness: clear information, understandable interfaces and responsible operation.
 
@@ -102,6 +102,8 @@ Choose GitHub, Proton Mail or Telegram. Use **SAVE CONTACT** to open or download
 <p align="center"><a href="https://github.com/JayHawkWorks"><img src="./assets/contact-github-en-final.svg" alt="GitHub" width="33%"></a><a href="mailto:hwk_jay@protonmail.com"><img src="./assets/contact-proton-en-final.svg" alt="Proton Mail" width="33%"></a><a href="https://t.me/Jay_HWK"><img src="./assets/contact-telegram-en-final.svg" alt="Telegram" width="33%"></a></p>
 
 <p align="center"><a href="https://raw.githubusercontent.com/JayHawkWorks/JayHawkWorks/main/contact/J-HWK.vcf"><img src="./assets/contact-save-en-final.svg" alt="Open J-HWK digital contact VCF" width="100%"></a></p>
+
+<p align="center"><a href="https://raw.githubusercontent.com/JayHawkWorks/JayHawkWorks/main/contact/J-HWK.vcf">Download contact (.VCF)</a></p>
 
 <p align="center">Slovakia / Central Europe · <strong>Europe/Bratislava</strong> · CET (UTC+01:00) / CEST (UTC+02:00)</p>
 
