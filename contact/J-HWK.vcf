@@ -1,19 +1,29 @@
 BEGIN:VCARD
 VERSION:3.0
-N:;J-HWK;;;
-FN:J-HWK
-NICKNAME:J-HWK
+N:Hawk;Jay;;;
+FN:Jay Hawk
+NICKNAME:Jay
 ORG:JayHawkWorks
-TITLE:Independent Systems Builder
-X-ABShowAs:COMPANY
-UID:urn:uuid:62aeba66-15b1-4d70-a542-701ea474b66a
+TITLE:Operational & Geospatial Software Development
 EMAIL;TYPE=INTERNET,WORK:hwk_jay@protonmail.com
 item1.URL:https://github.com/JayHawkWorks
 item1.X-ABLabel:GitHub
 item2.URL:https://t.me/Jay_HWK
 item2.X-ABLabel:Telegram
 ADR;TYPE=WORK:;;;;;;Slovakia
-NOTE:Time zone - Europe/Bratislava (CET / CEST).
+TZ:+01:00
+X-TZID:Europe/Bratislava
+X-LANGUAGE:en
+NOTE:TECHNICAL FOCUS\n\n- Emergency Systems — incident management\, coord
+ ination and situational awareness\n- GIS & Mapping — mapping platforms\,
+  GPS\, navigation and geospatial data\n- AI & Automation — local AI\, ag
+ ents and workflow automation\n- Cybersecurity & OSINT — security researc
+ h\, intelligence analysis and data protection\n- UAV & RF Technologies —
+  unmanned systems\, radio and field communications\n- Software Engineering
+  — web and desktop applications\, databases and APIs\n- Systems & Infras
+ tructure — Linux\, Windows\, local services and technical integration\n\
+ nTime zone: Europe/Bratislava — CET (UTC+01:00) / CEST (UTC+02:00)
+UID:urn:uuid:1a7bf7ee-5084-57d5-8ebc-8112e6fe7fcf
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwME
  AwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2w
  BDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQU

@@ -101,7 +101,7 @@ Vyber GitHub, Proton Mail alebo Telegram. Pomocou panelu **ULOŽIŤ KONTAKT** si
 
 <p align="center"><a href="https://github.com/JayHawkWorks"><img src="./assets/contact-github-sk-final.svg" alt="GitHub" width="33%"></a><a href="mailto:hwk_jay@protonmail.com"><img src="./assets/contact-proton-sk-final.svg" alt="Proton Mail" width="33%"></a><a href="https://t.me/Jay_HWK"><img src="./assets/contact-telegram-sk-final.svg" alt="Telegram" width="33%"></a></p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/JayHawkWorks/JayHawkWorks/87483c84ad8d55a4f1c3e3a2b7a8a95b3b0db0bb/contact/J-HWK.vcf"><img src="./assets/contact-save-sk-final.svg" alt="Otvoriť digitálny kontakt J-HWK vo formáte VCF" width="100%"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/JayHawkWorks/JayHawkWorks/main/contact/J-HWK_SK.vcf"><img src="./assets/contact-save-sk-final.svg" alt="Otvoriť digitálny kontakt J-HWK vo formáte VCF" width="100%"></a></p>
 
-<p align="center">Slovensko / stredná Európa · <strong>Europe/Bratislava</strong> · CET (UTC+01:00) / CEST (UTC+02:00)</p>
+<p align="center">Slovensko / stredná Európa · <strong>Europe/Bratislava</strong> · SEČ (UTC+01:00) / SELČ (UTC+02:00)</p>
 
