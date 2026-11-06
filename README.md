@@ -101,7 +101,7 @@ Choose GitHub, Proton Mail or Telegram. Use **SAVE CONTACT** to open or download
 
 <p align="center"><a href="https://github.com/JayHawkWorks"><img src="./assets/contact-github-en-final.svg" alt="GitHub" width="33%"></a><a href="mailto:hwk_jay@protonmail.com"><img src="./assets/contact-proton-en-final.svg" alt="Proton Mail" width="33%"></a><a href="https://t.me/Jay_HWK"><img src="./assets/contact-telegram-en-final.svg" alt="Telegram" width="33%"></a></p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/JayHawkWorks/JayHawkWorks/43dfabd52c03e07c2c4ab10c8f4a5865561d9e52/contact/J-HWK.vcf"><img src="./assets/contact-save-en-final.svg" alt="Open J-HWK digital contact VCF" width="100%"></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/JayHawkWorks/JayHawkWorks/87483c84ad8d55a4f1c3e3a2b7a8a95b3b0db0bb/contact/J-HWK.vcf"><img src="./assets/contact-save-en-final.svg" alt="Open J-HWK digital contact VCF" width="100%"></a></p>
 
 <p align="center">Slovakia / Central Europe · <strong>Europe/Bratislava</strong> · CET (UTC+01:00) / CEST (UTC+02:00)</p>
 
