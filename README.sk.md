@@ -103,7 +103,5 @@ Vyber GitHub, Proton Mail alebo Telegram. Pomocou panelu **ULOŽIŤ KONTAKT** si
 
 <p align="center"><a href="https://raw.githubusercontent.com/JayHawkWorks/JayHawkWorks/main/contact/J-HWK_SK.vcf"><img src="./assets/contact-save-sk-final.svg" alt="Otvoriť digitálny kontakt J-HWK vo formáte VCF" width="100%"></a></p>
 
-<p align="center"><a href="https://raw.githubusercontent.com/JayHawkWorks/JayHawkWorks/main/contact/J-HWK_SK.vcf">Stiahnuť kontakt (.VCF)</a></p>
-
 <p align="center">Slovensko / stredná Európa · <strong>Europe/Bratislava</strong> · SEČ (UTC+01:00) / SELČ (UTC+02:00)</p>
 
